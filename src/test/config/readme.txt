@@ -1,0 +1,1 @@
+Test configuration properties would be located in this directory
